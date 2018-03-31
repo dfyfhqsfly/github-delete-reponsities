@@ -1,5 +1,6 @@
 # github-delete-reponsities
 shell for batch delete reponsities in github
+
 you can delete one or more remote reponsities in github 
 
 ## usage
